@@ -1,0 +1,3 @@
+[submodule "Oxford3K/wordlist"]
+	path = Oxford3K/wordlist
+	url = https://github.com/OliverCollins/Oxford-3000-Word-List
