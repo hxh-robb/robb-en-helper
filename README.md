@@ -8,4 +8,8 @@ Some scripts that help myself manage the English learning resources
 
 ## TO-DO List
 
-* ESLPod - Send episode script to telegram channel.
+* ESLPod
+
+..* Send episode script to telegram channel.
+
+..* Grab content from [ESLPod](www.ieslpod.com).
