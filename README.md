@@ -12,4 +12,4 @@ Some scripts that help myself manage the English learning resources
 
 * ESLPod
   * Send episode script to telegram channel.
-  * Grab content from [ESLPod](www.ieslpod.com).
+  * Grab content from [ESLPod](http://www.ieslpod.com).
