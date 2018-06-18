@@ -1,4 +1,4 @@
-# Robb's English helper
+# Robb's English learning helper
 
 Some scripts that help myself manage the English learning resources
 
